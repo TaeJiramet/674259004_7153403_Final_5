@@ -1,13 +1,3 @@
-# ข้อสอบปลายภาค: กลุ่มที่ 5 สื่อการเรียนรู้ (Learning Resources)
-**รหัสนักศึกษา:** 674259004  
-**วิชา:** การพัฒนาเว็บแอปพลิเคชันแบบฟูลสแต็ก (Fullstack Web Application Development)
-
----
-
-## 📌 ภาพรวมโปรเจกต์ (Project Overview)
-ระบบจัดการสื่อการเรียนรู้ (Learning Resources Management System) พัฒนาด้วยสถาปัตยกรรม Fullstack แยกส่วนระหว่าง **Backend (Node.js/Express + Sequelize)** และ **Frontend (React + Vite)** ตามมาตรฐาน RESTful API ครอบคลุมการทำงาน CRUD, ระบบค้นหาข้อมูล (Search) และตัวกรองหมวดหมู่ (Filter) ตามข้อกำหนดโจทย์กลุ่มที่ 5 อย่างครบถ้วน 100%
-
----
 
 ## 📂 โครงสร้างโฟลเดอร์ของโปรเจกต์ (Project Structure)
 ```text
